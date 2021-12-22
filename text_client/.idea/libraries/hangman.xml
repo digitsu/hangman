@@ -2,6 +2,8 @@
   <library name="hangman" type="mix">
     <CLASSES />
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../hangman/lib" />
+    </SOURCES>
   </library>
 </component>
